@@ -2,11 +2,11 @@
 
 Site portfolio personnel, one-page, présentant mon parcours d'étudiant ingénieur en Cybersécurité et Infrastructures Réseaux à l'EMSI, ainsi que mes projets techniques.
 
-🔗 **Live :** https://alahyaneyassine.github.io/portfolio/ *(à activer — voir ci-dessous)*
+🔗 **Live :** https://alahyaneyassine.github.io/portfolio/
 
 ## À propos
 
-Étudiant ingénieur en 4ᵉ année à l'EMSI (Casablanca), spécialisation Cybersécurité et Infrastructures Réseaux. Actuellement stagiaire en cybersécurité chez INEOS.
+Étudiant ingénieur en 5ᵉ année à l'EMSI (Casablanca), spécialisation Cybersécurité et Infrastructures Réseaux.
 
 Le site présente :
 - Mon parcours (formation, stages)
