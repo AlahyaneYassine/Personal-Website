@@ -39,7 +39,7 @@ Le site est prévu pour être hébergé via **GitHub Pages** :
 1. Settings → Pages
 2. Source : `Deploy from a branch`
 3. Branch : `main` / `root`
-4. Le site sera disponible à `https://alahyaneyassine.github.io/portfolio/`
+4. Le site sera disponible à `https://alahyaneyassine.github.io/Personal-Website/`
 
 ## Contact
 
