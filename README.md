@@ -2,7 +2,7 @@
 
 Site portfolio personnel, one-page, présentant mon parcours d'étudiant ingénieur en Cybersécurité et Infrastructures Réseaux à l'EMSI, ainsi que mes projets techniques.
 
-🔗 **Live :** https://alahyaneyassine.github.io/portfolio/
+🔗 **Live :** https://alahyaneyassine.github.io/Personal-Website/
 
 ## À propos
 
